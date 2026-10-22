@@ -2,3 +2,6 @@
 chat_history.json
 __pycache__/
 .venv/
+.vscode/
+.streamlit/secrets.toml
+app_backup.py

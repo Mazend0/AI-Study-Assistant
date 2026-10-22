@@ -68,3 +68,13 @@ streamlit run app.py
 ## Author
 
 Computer Science Graduate | Artificial Intelligence Track
+
+## Screenshots
+
+### Main Interface
+
+![AI Study Assistant Main Interface](screenshots/main-interface.png)
+
+### PDF Summarization
+
+![PDF Summarization](screenshots/summary.png)
